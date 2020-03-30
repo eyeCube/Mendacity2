@@ -1,6 +1,8 @@
 #Mendacity2
 This old game had some interesting top-down-shooter action.
 
+To play, run medacity.exe in compatibility mode for Windows XP
+
 Controls:
 
 W A S D : move
