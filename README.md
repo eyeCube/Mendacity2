@@ -10,3 +10,5 @@ R: reload
 P: restart game
 
 There isn't much to do in this game except murder civilians. Unfortunately some of the cooler stuff in this game was lost to time.
+
+Bonus include: Inexorable III, another unfinished TDS from ~10 years ago.
